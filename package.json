@@ -1,6 +1,6 @@
 {
   "name": "github-webhook-fixtures",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A set of testing fixtures for the GitHub Webhooks API v3",
   "main": "index.js",
   "scripts": {
