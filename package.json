@@ -1,0 +1,29 @@
+{
+  "name": "github-webhook-fixtures",
+  "version": "0.0.0",
+  "description": "A set of testing fixtures for the GitHub Webhooks API v3",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -v -c -a code test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Runnable/github-webhook-fixtures.git"
+  },
+  "keywords": [
+    "github",
+    "webhooks",
+    "fixture",
+    "testing"
+  ],
+  "author": "Ryan Sandor Richards <ryan@runnable.com> (http://www.runnable.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Runnable/github-webhook-fixtures/issues"
+  },
+  "homepage": "https://github.com/Runnable/github-webhook-fixtures#readme",
+  "devDependencies": {
+    "code": "^1.5.0",
+    "lab": "^6.2.0"
+  }
+}
